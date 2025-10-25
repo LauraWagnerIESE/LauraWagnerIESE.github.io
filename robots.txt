@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://LauraWagnerIESE.github.io/al-folio/sitemap.xml
+Sitemap: https://LauraWagnerIESE.github.io/sitemap.xml

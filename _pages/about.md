@@ -8,12 +8,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>lwagner[at]iese.edu</p>
+    <p>Office: North Campus 507 Barcelona</p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: true
@@ -26,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I’m an Asssociate Professor at the Operations, Information and Technology Department at IESE Business School.
+I’m an Asssociate Professor at the Operations, Information and Technology Department at [IESE Business School](https://www.iese.edu/).
 profile:. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

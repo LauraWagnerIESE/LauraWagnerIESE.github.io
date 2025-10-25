@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='#'>Affiliations</a>. I’m an Asssociate Professor at the Operations, Information and Technology Department at IESE Business School.
 profile:
   align: right
   image: prof_pic.jpg

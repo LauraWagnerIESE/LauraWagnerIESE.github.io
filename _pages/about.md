@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
+subtitle: <a href='#'>Affiliations</a> 
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular

@@ -5,7 +5,7 @@ permalink: /
 subtitle: "<a href='#'>Affiliations</a>"
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: true
   more_info: >
     <p>lwagner[at]iese.edu</p>
